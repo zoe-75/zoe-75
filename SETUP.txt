@@ -1,0 +1,10 @@
+ZOE.. GitHub profile README setup
+
+1. Confirm your real GitHub username is zoe-75. If not, replace zoe-75 in README.md and name the special repo after your actual username.
+2. On GitHub, create a PUBLIC repository with the name exactly matching your username (zoe-75).
+3. Add README.md at the root and assets/zoe-ascii.svg at the same relative path.
+4. Commit and refresh your GitHub profile page. It can take a moment for shields and stats cards to render.
+5. Edit any project descriptions, tech or links you no longer want published.
+
+ASCII artwork is a stylized conversion of the illustrated portrait provided in the conversation, not a new likeness.
+Statistics displayed are live external widgets, not invented fixed figures.
